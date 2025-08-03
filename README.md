@@ -47,9 +47,9 @@ Whether you are a survivor, a support network member, or a community responder, 
 
 > _Note: Add specific technologies used as appropriate._
 
-- **Frontend**: React / Flutter / HTML-CSS-JS (your choice)
-- **Backend**: Node.js / Spring Boot / Django (your choice)
-- **Database**: Firebase / MongoDB / MySQL
+- **Frontend**: React  / HTML-CSS-JS 
+- **Backend**: Node.js 
+- **Database**: MongoDB / MySQL
 - **APIs**: Google Maps API, Twilio for messaging, Custom shelter database APIs
 - **Security**: JWT authentication, HTTPS, encrypted storage
 

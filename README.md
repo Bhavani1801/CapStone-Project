@@ -54,6 +54,3 @@ Whether you are a survivor, a support network member, or a community responder, 
 - **Security**: JWT authentication, HTTPS, encrypted storage
 
 ---
-
-   git clone https://github.com/your-username/SheShelther.git
-   cd SheShelther
